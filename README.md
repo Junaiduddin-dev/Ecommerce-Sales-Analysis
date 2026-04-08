@@ -15,4 +15,4 @@ Analyzed 9,800+ sales records using Python, SQL, and Power BI.
 - Average delivery time ~4 days
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](imagesdashboard.png)
